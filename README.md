@@ -1,6 +1,6 @@
 # EarlyLate_RNA_eQTL
 
-A code repository for custom scripts used in the analyses described in our manuscript "**Early and late RNA eQTL are driven by different genetic mechanisms**" (Sakaue et al.)
+A code repository for custom scripts used in the analyses described in our manuscript "**Early and late RNA eQTL are driven by different genetic mechanisms**" (Sakaue and Raychaudhuri. to appear in Nat Commun.)
 
 ### Table of Contents
 
